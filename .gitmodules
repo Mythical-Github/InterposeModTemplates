@@ -1,5 +1,3 @@
 [submodule "RE-UE4SS"]
-	path = C++/MyMods/RE-UE4SS
-	url = https://github.com/UE4SS-RE/RE-UE4SS.git
-	branch = main 
-	ignore = dirty
+	path = RE-UE4SS
+	url = https://github.com/UE4SS-RE/RE-UE4SS
