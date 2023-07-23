@@ -9,6 +9,7 @@ using namespace RC::Unreal;
 class ExampleMod : public RC::CppUserModBase
 {
 public:
+    //Constructor
     ExampleMod() : CppUserModBase()
     {
         ModName = STR("ExampleMod");
@@ -22,6 +23,7 @@ public:
         Output::send<LogLevel::Verbose>(STR("ExampleMod says hello\n"));
     }
 	
+    //Deconstructor
     ~ExampleMod()
     {
     }
