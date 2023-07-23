@@ -1,7 +1,8 @@
 @echo off
 
+echo about to run the py file
 
 python "C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsExampleMods\C++\MyMods\etb_testing.py"
-pause
 
-exit \b
+echo ran the py file
+
