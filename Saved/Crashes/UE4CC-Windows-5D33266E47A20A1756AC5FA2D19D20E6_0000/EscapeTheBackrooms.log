@@ -1,0 +1,1134 @@
+﻿Log file open, 09/21/23 21:17:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeTheBackrooms
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.199826
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/unreal_engine_installs/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.09.22-01.17.01:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:586][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.09.22-01.17.01:600][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.09.22-01.17.01:600][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.22-01.17.01:600][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.09.22-01.17.01:600][  0]LogHAL: Display: Platform has ~ 16 GB [16866865152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.09.22-01.17.01:600][  0]LogInit: Going up to parent DeviceProfile []
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Scalability.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.09.22-01.17.01:601][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.09.22-01.17.01:602][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Engine.ini]
+[2023.09.22-01.17.01:602][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Config/Windows/Editor.ini]
+[2023.09.22-01.17.01:602][  0]LogInit: Computer: DESKTOP-H8M04FC
+[2023.09.22-01.17.01:602][  0]LogInit: User: Mythical
+[2023.09.22-01.17.01:602][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.09.22-01.17.01:602][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.09.22-01.17.01:602][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.09.22-01.17.01:602][  0]LogMemory: Platform Memory Stats for Windows
+[2023.09.22-01.17.01:602][  0]LogMemory: Process Physical Memory: 145.52 MB used, 145.53 MB peak
+[2023.09.22-01.17.01:602][  0]LogMemory: Process Virtual Memory: 131.54 MB used, 131.54 MB peak
+[2023.09.22-01.17.01:602][  0]LogMemory: Physical Memory: 9754.17 MB used,  6331.32 MB free, 16085.50 MB total
+[2023.09.22-01.17.01:602][  0]LogMemory: Virtual Memory: 134202320.00 MB used,  15410.62 MB free, 134217728.00 MB total
+[2023.09.22-01.17.01:605][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.09.22-01.17.01:635][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.09.22-01.17.01:636][  0]LogInit: Using OS detected language (en-US).
+[2023.09.22-01.17.01:636][  0]LogInit: Using OS detected locale (en-US).
+[2023.09.22-01.17.01:639][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.09.22-01.17.01:797][  0]LogInit: Setting process to per monitor DPI aware
+[2023.09.22-01.17.01:807][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.09.22-01.17.01:819][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.09.22-01.17.01:819][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.09.22-01.17.01:927][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.09.22-01.17.01:930][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.22-01.17.01:930][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.09.22-01.17.01:930][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.09.22-01.17.01:930][  0]LogD3D11RHI: D3D11 adapters:
+[2023.09.22-01.17.02:041][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070 Laptop GPU' (Feature Level 11_0)
+[2023.09.22-01.17.02:041][  0]LogD3D11RHI:       8033/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.09.22-01.17.02:064][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2023.09.22-01.17.02:064][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     DeviceId    : 249d
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     SubSysId    : 12ea1462
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     DedicatedVideoMemory : 8423211008 bytes
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     SharedSystemMemory : 8433432576 bytes
+[2023.09.22-01.17.02:066][  0]LogD3D11RHI:     AdapterLuid : 0 61537
+[2023.09.22-01.17.02:071][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.09.22-01.17.02:071][  0]LogD3D11RHI:     GPU DeviceId: 0x249d (for the marketing name, search the web for "GPU Device Id")
+[2023.09.22-01.17.02:071][  0]LogWindows: EnumDisplayDevices:
+[2023.09.22-01.17.02:071][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:1)
+[2023.09.22-01.17.02:072][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.09.22-01.17.02:072][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.09.22-01.17.02:072][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2023.09.22-01.17.02:072][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3070 Laptop GPU' (P:1 D:1)
+[2023.09.22-01.17.02:072][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:   Driver Version: 536.67 (internal:31.0.15.3667, unified:536.67)
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:      Driver Date: 7-12-2023
+[2023.09.22-01.17.02:072][  0]LogRHI: Texture pool is 5623 MB (70% of 8033 MB)
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070 Laptop GPU
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     DeviceId    : 249d
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     SubSysId    : 12ea1462
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     DedicatedVideoMemory : 8423211008 bytes
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     SharedSystemMemory : 8433432576 bytes
+[2023.09.22-01.17.02:072][  0]LogD3D11RHI:     AdapterLuid : 0 61537
+[2023.09.22-01.17.02:159][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.09.22-01.17.02:159][  0]LogD3D11RHI: Async texture creation enabled
+[2023.09.22-01.17.02:159][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.09.22-01.17.02:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.09.22-01.17.02:194][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.09.22-01.17.02:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.09.22-01.17.02:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.09.22-01.17.02:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.09.22-01.17.02:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.09.22-01.17.02:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.09.22-01.17.02:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.09.22-01.17.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.09.22-01.17.02:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.09.22-01.17.02:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.09.22-01.17.02:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.09.22-01.17.02:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.09.22-01.17.02:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.09.22-01.17.02:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.09.22-01.17.02:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.09.22-01.17.02:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.09.22-01.17.02:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.09.22-01.17.02:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.09.22-01.17.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.09.22-01.17.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.09.22-01.17.02:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.09.22-01.17.02:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.09.22-01.17.02:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.09.22-01.17.02:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.09.22-01.17.02:535][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.09.22-01.17.02:541][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.09.22-01.17.02:564][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.09.22-01.17.02:590][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.09.22-01.17.02:590][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Intermediate/Shaders/WorkingDirectory/24092/).
+[2023.09.22-01.17.02:590][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mythical/AppData/Local/Temp/UnrealShaderWorkingDir/CD16FDB1428A4A4D1F662CB0508A8ECD/'.
+[2023.09.22-01.17.02:591][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.09.22-01.17.02:591][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.09.22-01.17.02:591][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.09.22-01.17.03:243][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.09.22-01.17.03:276][  0]LogDerivedDataCache: Loaded boot cache 0.03s 94MB C:/Users/Mythical/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.09.22-01.17.03:276][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Mythical/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.09.22-01.17.03:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.09.22-01.17.03:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.09.22-01.17.03:277][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.22-01.17.03:277][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.09.22-01.17.03:294][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.09.22-01.17.03:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.09.22-01.17.03:294][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.09.22-01.17.03:299][  0]LogDerivedDataCache: Speed tests for C:/Users/Mythical/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2023.09.22-01.17.03:299][  0]LogDerivedDataCache: Display: Performance to C:/Users/Mythical/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1533.88MBs, RandomWriteSpeed=250.16MBs. Assigned SpeedClass 'Local'
+[2023.09.22-01.17.03:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Mythical/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.09.22-01.17.03:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.09.22-01.17.03:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.09.22-01.17.03:337][  0]LogSlate: Using FreeType 2.10.0
+[2023.09.22-01.17.03:337][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.09.22-01.17.03:361][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2023.09.22-01.17.03:648][  0]LogInit: Selected Device Profile: [Windows]
+[2023.09.22-01.17.03:648][  0]LogInit: Active device profile: [00000205BDB17600][00000205B85988C0 49] Windows
+[2023.09.22-01.17.03:648][  0]LogInit: Profiles: [00000205BDB17600][00000205B85988C0 49] Windows, [00000205BDB20C00][00000205B859CA40 49] WindowsNoEditor, [00000205BDB14C00][00000205BEF4ABC0 49] WindowsServer, [00000205BDB22F00][00000205BEF4ED40 49] WindowsClient, [00000205BDB16E00][00000205BEF52EC0 49] IOS, [00000205BDB21400][00000205BEF57040 49] iPadAir, [00000205BDB15300][00000205BEF5B1C0 49] iPadAir2, [00000205BDABFF00][00000205B874F480 49] IPadPro, [00000205BDABFE00][00000205B87454C0 49] iPadAir3, [00000205BDB16900][00000205B8759640 49] iPadAir4, [00000205BDABD100][00000205B875D7C0 49] iPadMini2, [00000205BDB15700][00000205B8761940 49] iPadMini3, [00000205BDABE900][00000205B8765AC0 49] iPadMini4, [00000205BDB17700][00000205B87680C0 49] iPadMini5, [00000205BDB13800][00000205B8770380 49] iPhone6, [00000205BDB13900][00000205B876C3C0 49] iPodTouch6, [00000205BDABD200][00000205B858E640 49] iPhone7, [00000205BDABD300][00000205B8774680 49] iPodTouch7, [00000205BDB11000][00000205B87787C0 49] iPhone5S, [00000205BDABEC00][00000205B877C900 49] iPhone6Plus, [00000205BDB12A00][00000205B8784A80 49] iPhone6S, [00000205BDABCD00][00000205B8788C00 49] iPhone6SPlus, [00000205BDB11700][00000205B878CD80 49] iPhone7Plus, [00000205BDABFD00][00000205B8790F00 49] iPhoneSE, [00000205BDB12300][00000205B8795080 49] iPhone8, [00000205BDABF600][00000205B8799200 49] iPhone8Plus, [00000205BDB10F00][00000205B879D380 49] iPhoneX, [00000205BDABDA00][00000205B87A1500 49] iPhoneXS, [00000205BDB12C00][00000205B87A5680 49] iPhoneXSMax, [00000205BDABED00][00000205B87A9800 49] iPhoneXR, [00000205BDB11400][00000205B87AD980 49] iPhone11, [00000205BDABC800][00000205B8123B00 49] iPhone11Pro, [00000205BDB11900][00000205B8126100 49] iPhone11ProMax, [00000205BDABE500][00000205B812A280 49] iPhoneSE2, [00000205BDB11300][00000205B812E400 49] iPhone12Mini, [00000205BDABF300][00000205B8132580 49] iPhone12, [00000205BDB12800][00000205B8136700 49] iPhone12Pro, [00000205BDABF500][00000205B8780840 49] iPhone12ProMax, [00000205BDB10D00][00000205B813A980 49] iPadPro105, [00000205BDABF000][00000205B813EAC0 49] iPadPro129, [00000205BDB12200][00000205B8146C40 49] iPadPro97, [00000205BDABF700][00000205B814ADC0 49] iPadPro2_129, [00000205BDB13A00][00000205B814EF40 49] iPad5, [00000205BDABD500][00000205B81530C0 49] iPad6, [00000205BDB12700][00000205B8157240 49] iPad7, [00000205BDABE000][00000205B815B3C0 49] iPad8, [00000205BDB11100][00000205B815F540 49] iPadPro11, [00000205BDABC300][00000205B81636C0 49] iPadPro2_11, [00000205BDB10800][00000205B8167840 49] iPadPro3_129, [00000205BDABCF00][00000205B816B9C0 49] iPadPro4_129, [00000205BDB12000][00000205B816FB40 49] AppleTV, [00000205BDABD400][00000205B8172140 49] AppleTV4K, [00000205BDB11E00][00000205B81762C0 49] TVOS, [00000205BDABC200][00000205B817A440 49] Mac, [00000205BDB12500][00000205B817E5C0 49] MacClient, [00000205BDABD900][00000205B8182740 49] MacNoEditor, [00000205BDB10A00][00000205B81868C0 49] MacServer, [00000205BDABC700][00000205B8142A00 49] Linux, [00000205BDB10200][00000205B818AB40 49] LinuxAArch64, [00000205BDABE200][00000205B818EC80 49] LinuxNoEditor, [00000205BDB12100][00000205B8192DC0 49] LinuxAArch64NoEditor, [00000205BDBA4100][00000205B819AF40 49] LinuxClient, [00000205BDB23F00][00000205BF12F0C0 49] LinuxAArch64Client, [00000205BDBA5500][00000205BF133240 49] LinuxServer, [00000205BDB20D00][00000205B43813C0 49] LinuxAArch64Server, [00000205BDBA4300][00000205B4385540 49] Android, [00000205BDB23400][00000205B43896C0 49] Android_Low, [00000205BDBA4A00][00000205B438D840 49] Android_Mid, [00000205BDB21200][00000205B43919C0 49] Android_High, [00000205BDBA4F00][00000205B4395B40 49] Android_Default, [00000205BDB20100][00000205B4398140 49] Android_Adreno4xx, [00000205BDBA5E00][00000205B439C2C0 49] Android_Adreno5xx_Low, [00000205BDB21C00][00000205B43A0440 49] Android_Adreno5xx, [00000205BDBA5300][00000205B43A45C0 49] Android_Adreno6xx, [00000205BDB20200][00000205B43A8740 49] Android_Adreno6xx_Vulkan, [00000205BDBA6200][00000205BF1368C0 49] Android_Mali_T6xx, [00000205BDB22A00][00000205BF13AA40 49] Android_Mali_T7xx, [00000205BDBA4C00][00000205B8196B80 49] Android_Mali_T8xx, [00000205BDB23E00][00000205BF13ECC0 49] Android_Mali_G71, [00000205BDBA5F00][00000205BF142E00 49] Android_Mali_G72, [00000205BDB22800][00000205BF146F40 49] Android_Mali_G72_Vulkan, [00000205BDBA6000][00000205BF14F0C0 49] Android_Mali_G76, [00000205BDB20A00][00000205BF153240 49] Android_Mali_G76_Vulkan, [00000205BDB11200][00000205BF1573C0 49] Android_Mali_G77, [00000205BDABF200][00000205BF15B540 49] Android_Mali_G77_Vulkan, [00000205BDB13F00][00000205BF15F6C0 49] Android_Mali_G78, [00000205BDABEB00][00000205BF163840 49] Android_Mali_G78_Vulkan, [00000205BDB11B00][00000205BF1679C0 49] Android_Mali_G710, [00000205BDABFB00][00000205BF16BB40 49] Android_Mali_G710_Vulkan, [00000205BDB10600][00000205BF16E140 49] Android_Vulkan_SM5, [00000205BDABF100][00000205BF1722C0 49] Android_PowerVR_G6xxx, [00000205BDB13200][00000205BF176440 49] Android_PowerVR_GT7xxx, [00000205BDABDC00][00000205BF17A5C0 49] Android_PowerVR_GE8xxx, [00000205BDB10C00][00000205BF17E740 49] Android_PowerVR_GM9xxx, [00000205BDABF900][00000205BF1828C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000205BDBA5D00][00000205BF186A40 49] Android_TegraK1, [00000205BDABC900][00000205BF18ABC0 49] Android_Unknown_Vulkan, [00000205BDBA4400][00000205BF18ED40 49] Lumin, [00000205BDABE300][00000205BF14AE80 49] Lumin_Desktop, [00000205BDBA4200][00000205BF192FC0 49] HoloLens, 
+[2023.09.22-01.17.03:796][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.22-01.17.03:796][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.22-01.17.03:796][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.22-01.17.03:796][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.22-01.17.03:796][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.22-01.17.03:815][  0]LogNetVersion: EscapeTheBackrooms 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3701509013)
+[2023.09.22-01.17.04:210][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.09.22-01.17.04:333][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.09.22-01.17.04:339][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.09.22-01.17.04:339][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.09.22-01.17.04:339][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.22-01.17.04:486][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2AD648CD4EF88041071F3BACA5C830A3 | Instance: 5AEB02324A18A7211E2BA4BD876B8970 (DESKTOP-H8M04FC-24092).
+[2023.09.22-01.17.04:677][  0]LogPython: Using Python 3.7.7
+[2023.09.22-01.17.05:132][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.22-01.17.05:154][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.22-01.17.05:244][  0]SourceControl: Source control is disabled
+[2023.09.22-01.17.05:244][  0]SourceControl: Source control is disabled
+[2023.09.22-01.17.05:250][  0]SourceControl: Source control is disabled
+[2023.09.22-01.17.05:252][  0]SourceControl: Source control is disabled
+[2023.09.22-01.17.05:259][  0]SourceControl: Source control is disabled
+[2023.09.22-01.17.05:263][  0]LogUProjectInfo: Found projects:
+[2023.09.22-01.17.05:426][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.22-01.17.05:434][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.22-01.17.05:448][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.22-01.17.05:448][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.22-01.17.05:550][  0]LogCollectionManager: Loaded 0 collections in 0.001676 seconds
+[2023.09.22-01.17.05:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/Collections/' took 0.00s
+[2023.09.22-01.17.05:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Content/Developers/Mythical/Collections/' took 0.00s
+[2023.09.22-01.17.05:568][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Content/Collections/' took 0.00s
+[2023.09.22-01.17.05:568][  0]LogOcInput: OculusInput pre-init called
+[2023.09.22-01.17.05:749][  0]LogEngine: Initializing Engine...
+[2023.09.22-01.17.05:751][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.09.22-01.17.05:751][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.09.22-01.17.05:751][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.09.22-01.17.05:752][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.22-01.17.05:979][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.22-01.17.05:985][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.22-01.17.05:986][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.22-01.17.05:988][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.22-01.17.05:988][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.22-01.17.05:989][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.22-01.17.05:989][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.22-01.17.05:989][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.22-01.17.05:989][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.22-01.17.05:989][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.22-01.17.05:989][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.22-01.17.05:989][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.09.22-01.17.05:998][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.09.22-01.17.05:998][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.09.22-01.17.06:028][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.09.22-01.17.06:028][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.22-01.17.06:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.22-01.17.06:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.22-01.17.06:030][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.09.22-01.17.06:030][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.09.22-01.17.06:030][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.09.22-01.17.06:031][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.09.22-01.17.06:031][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.09.22-01.17.06:031][  0]LogInit: FAudioDevice initialized.
+[2023.09.22-01.17.06:031][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.22-01.17.06:031][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.22-01.17.06:075][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/Mythical/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.09.22-01.17.06:075][  0]LogInit: Texture streaming: Enabled
+[2023.09.22-01.17.06:084][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.09.22-01.17.06:087][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.09.22-01.17.06:087][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.09.22-01.17.06:088][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.09.22-01.17.06:101][  0]LogInit: Transaction tracking system initialized
+[2023.09.22-01.17.06:115][  0]BlueprintLog: New page: Editor Load
+[2023.09.22-01.17.06:157][  0]LocalizationService: Localization service is disabled
+[2023.09.22-01.17.06:173][  0]TimingProfiler: Initialize
+[2023.09.22-01.17.06:173][  0]TimingProfiler: OnSessionChanged
+[2023.09.22-01.17.06:173][  0]LoadingProfiler: Initialize
+[2023.09.22-01.17.06:173][  0]LoadingProfiler: OnSessionChanged
+[2023.09.22-01.17.06:174][  0]NetworkingProfiler: Initialize
+[2023.09.22-01.17.06:174][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.22-01.17.06:174][  0]MemoryProfiler: Initialize
+[2023.09.22-01.17.06:174][  0]MemoryProfiler: OnSessionChanged
+[2023.09.22-01.17.06:298][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.09.22-01.17.06:298][  0]LogCook: Display: Mobile HDR setting 1
+[2023.09.22-01.17.06:358][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Content/' took 0.00s
+[2023.09.22-01.17.06:594][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.22-01.17.06:597][  0]SourceControl: Source control is disabled
+[2023.09.22-01.17.06:597][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.930
+[2023.09.22-01.17.06:597][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.09.22-01.17.06:598][  0]LightingResults: New page: Lighting Build
+[2023.09.22-01.17.06:599][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.22-01.17.06:599][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.22-01.17.06:599][  0]MapCheck: New page: Map Check
+[2023.09.22-01.17.06:599][  0]LightingResults: New page: Lighting Build
+[2023.09.22-01.17.06:602][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.22-01.17.06:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.09.22-01.17.06:647][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2023.09.22-01.17.06:654][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.09.22-01.17.06:655][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.09.22-01.17.06:658][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.22-01.17.06:663][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.09.22-01.17.06:663][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.22-01.17.06:663][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2023.09.22-01.17.06:663][  0]LogFileHelpers: Loading map 'Template_Default' took 0.067
+[2023.09.22-01.17.06:665][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.998
+[2023.09.22-01.17.06:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-01.17.06:761][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-01.17.06:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-01.17.06:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:773][  0]LogSlate: The tab "/Game/Mods/EditorOnly/Modding.Modding_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.09.22-01.17.06:783][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3822 classes and 928 folders.
+[2023.09.22-01.17.06:785][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.09.22-01.17.06:786][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.09.22-01.17.06:805][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.22-01.17.06:806][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.09.22-01.17.06:808][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.22-01.17.06:868][  0]LogRenderer: Reallocating scene render targets to support 1564x524 Format 10 NumSamples 1 (Frame:1).
+[2023.09.22-01.17.06:920][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.09.22-01.17.06:920][  0]LogLoad: (Engine Initialization) Total time: 6.25 seconds
+[2023.09.22-01.17.06:920][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.22-01.17.06:966][  0]LogAssetRegistry: Asset discovery search completed in 3.6059 seconds
+[2023.09.22-01.17.06:970][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.09.22-01.17.06:971][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.22-01.17.07:619][  2]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.22-01.18.20:442][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:443][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:443][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:444][539]LogLinker: Warning: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:444][539]LogLinker: Warning: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:444][539]LogLinker: Warning: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:445][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:445][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_CallFunction_0
+[2023.09.22-01.18.20:445][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:445][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:445][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_CallFunction_4
+[2023.09.22-01.18.20:445][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:446][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:446][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_Knot_3
+[2023.09.22-01.18.20:446][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:446][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:446][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_MacroInstance_0
+[2023.09.22-01.18.20:446][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:446][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:447][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:447][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_Knot_0
+[2023.09.22-01.18.20:447][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:447][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:447][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:447][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:447][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_Knot_4
+[2023.09.22-01.18.20:448][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:448][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:448][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_CallFunction_1
+[2023.09.22-01.18.20:448][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:448][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:448][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:449][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:449][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:449][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:449][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:449][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:450][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:450][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:450][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:450][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_CallFunction_3
+[2023.09.22-01.18.20:450][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:450][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:451][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:451][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:451][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:451][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:452][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:452][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:452][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:452][539]LoadErrors: Failed to load /Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog.WBP_DebugLog_C Referenced by K2Node_Knot_8
+[2023.09.22-01.18.20:452][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:452][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:452][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:453][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:453][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:453][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:453][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:454][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:454][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:454][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:454][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:455][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:455][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:455][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:455][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:456][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:456][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:456][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:456][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:456][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:456][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:457][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:457][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:457][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:457][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:458][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:458][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:458][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:458][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:458][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:459][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:459][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:459][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:459][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:459][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:460][539]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: Failed to load '/Game/Mods/Z_DebugLog_P/Widgets/WBP_DebugLog': Can't find file.
+[2023.09.22-01.18.20:464][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:464][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:475][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:476][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:476][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:476][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:476][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:477][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:477][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:478][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:478][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:478][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:478][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:478][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:479][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:479][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:479][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:480][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:480][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:480][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:480][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:481][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:481][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:481][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:482][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:482][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:482][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:482][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:483][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:483][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:483][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:483][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:484][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:484][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:484][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:484][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:485][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:486][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:486][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:486][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:486][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:486][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:487][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:487][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:487][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Self Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:488][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:488][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:488][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:488][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:488][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:489][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:489][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Object : Object Reference is not compatible with Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:489][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from  Array Element  and  Target : Object Reference is not compatible with Self Object Reference. (You may have changed the type after the connections were made)
+[2023.09.22-01.18.20:490][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Object References is not compatible with Array of User Widget Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:490][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Self Object Reference.' at  Get (a copy) generated from expanding For Each Loop
+[2023.09.22-01.18.20:490][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Found Widgets  and  Target Array generated from expanding For Each Loop : Array of User Widget Object References is not compatible with Array of Object References.
+[2023.09.22-01.18.20:490][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Invalid pin connection from ' Found Widgets ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.09.22-01.18.20:491][539]LogBlueprint: Error: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Found Widgets : Array of Object References is not compatible with Array of User Widget Object References.
+[2023.09.22-01.18.20:496][539]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.22-01.18.20:510][539]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog.BFL_DebugLog
+[2023.09.22-01.18.20:668][539]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2023.09.22-01.18.21:269][539]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.22-01.18.21:286][539]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.22-01.18.44:704][941]BlueprintLog: New page: Compile BFL_DebugLog
+[2023.09.22-01.18.44:729][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.09.22-01.18.45:091][961]LogSavePackage: Moving '../../../../../Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Saved/BFL_DebugLogAD16D43F4A90B06EE2F81983CB42E0DB.tmp' to '../../../../../Users/Mythical/Documents/GitHub/EscapeTheBackroomsModTemplate/Content/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog.uasset'
+[2023.09.22-01.18.45:102][961]AssetCheck: New page: Asset Save: BFL_DebugLog
+[2023.09.22-01.18.45:102][961]LogContentValidation: Display: Validating Blueprint /Game/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog.BFL_DebugLog
+[2023.09.22-01.18.45:491][984]LogSlate: Window 'BFL_DebugLog' being destroyed
+[2023.09.22-01.18.45:494][984]LogSlate: Window 'BFL_DebugLog' being destroyed
+[2023.09.22-01.18.45:496][984]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.09.22-01.18.45:496][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.22-01.18.49:960][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_Main_Entry.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto': Can't find file.
+[2023.09.22-01.18.49:960][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_Main_Entry.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto': Can't find file.
+[2023.09.22-01.18.49:960][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_Main_Entry.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto': Can't find file.
+[2023.09.22-01.18.49:961][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_Main_Entry.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Textures/T_White': Can't find file.
+[2023.09.22-01.18.49:961][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_Main_Entry.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Textures/T_White': Can't find file.
+[2023.09.22-01.18.49:961][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_Main_Entry.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Textures/T_White': Can't find file.
+[2023.09.22-01.18.49:962][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto': Can't find file.
+[2023.09.22-01.18.49:962][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto': Can't find file.
+[2023.09.22-01.18.49:962][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Textures/T_White': Can't find file.
+[2023.09.22-01.18.49:962][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Textures/T_White': Can't find file.
+[2023.09.22-01.18.49:963][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Textures/T_White': Can't find file.
+[2023.09.22-01.18.49:963][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Textures/T_White.T_White Referenced by ExpandableArea_83
+[2023.09.22-01.18.49:963][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto': Can't find file.
+[2023.09.22-01.18.49:963][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Fonts/DefaultRoboto/DefaultRoboto.DefaultRoboto Referenced by TextBlock_55
+[2023.09.22-01.18.49:968][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:968][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:969][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:969][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:969][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:969][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:969][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:970][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:970][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:970][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:970][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:970][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:970][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Widgets\WBP_ModLoader.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:971][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:971][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by MenuState
+[2023.09.22-01.18.49:971][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:971][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by E_CurrentSlideState
+[2023.09.22-01.18.49:971][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:971][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by E_DesiredSlideState
+[2023.09.22-01.18.49:972][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:972][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:972][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:972][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:972][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:973][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:973][250]LogClass: Warning: Failed to find enum 'E_MenuSlideState' when converting property 'E_CurrentSlideState' during property loading - setting to 0
+[2023.09.22-01.18.49:973][250]LogClass: Warning: Failed to find enum 'E_MenuSlideState' when converting property 'E_DesiredSlideState' during property loading - setting to 0
+[2023.09.22-01.18.49:974][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:974][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by WBP_ModLoader
+[2023.09.22-01.18.49:974][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:975][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:975][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One': Can't find file.
+[2023.09.22-01.18.49:975][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_One.WBP_Border_One_C Referenced by WidgetTree
+[2023.09.22-01.18.49:975][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:975][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two': Can't find file.
+[2023.09.22-01.18.49:975][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Widgets/WBP_Border_Two.WBP_Border_Two_C Referenced by WidgetTree
+[2023.09.22-01.18.49:976][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:976][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_6
+[2023.09.22-01.18.49:977][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:977][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:977][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_7
+[2023.09.22-01.18.49:977][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:977][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:977][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_22
+[2023.09.22-01.18.49:978][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:978][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_21
+[2023.09.22-01.18.49:978][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:978][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableSet_3
+[2023.09.22-01.18.49:978][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:978][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:978][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableSet_12
+[2023.09.22-01.18.49:978][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:979][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:979][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_3
+[2023.09.22-01.18.49:979][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:979][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:979][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_17
+[2023.09.22-01.18.49:979][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:979][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableSet_9
+[2023.09.22-01.18.49:980][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:980][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:980][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableSet_17
+[2023.09.22-01.18.49:980][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:981][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:981][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader.BP_ModLoader_C Referenced by K2Node_DynamicCast_0
+[2023.09.22-01.18.49:981][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:981][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:981][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader.BP_ModLoader_C Referenced by K2Node_VariableGet_25
+[2023.09.22-01.18.49:981][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Blueprints/BP_ModLoader': Can't find file.
+[2023.09.22-01.18.49:982][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:982][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableSet_20
+[2023.09.22-01.18.49:982][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:982][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:982][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableSet_4
+[2023.09.22-01.18.49:982][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:983][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:983][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_31
+[2023.09.22-01.18.49:983][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:983][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_9
+[2023.09.22-01.18.49:983][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:983][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:983][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_32
+[2023.09.22-01.18.49:984][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:984][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_10
+[2023.09.22-01.18.49:984][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:984][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:984][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_34
+[2023.09.22-01.18.49:984][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:984][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_12
+[2023.09.22-01.18.49:984][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:985][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:985][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_30
+[2023.09.22-01.18.49:985][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:985][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_8
+[2023.09.22-01.18.49:985][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:985][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:985][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_CallFunction_52
+[2023.09.22-01.18.49:986][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:986][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_CallFunction_51
+[2023.09.22-01.18.49:986][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:986][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_FunctionEntry_0
+[2023.09.22-01.18.49:986][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:987][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:987][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_2
+[2023.09.22-01.18.49:987][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:987][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:987][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:987][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:987][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_Knot_1
+[2023.09.22-01.18.49:988][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:988][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:988][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_Knot_2
+[2023.09.22-01.18.49:988][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:988][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:988][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_0
+[2023.09.22-01.18.49:988][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:988][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:989][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_Knot_0
+[2023.09.22-01.18.49:989][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:989][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:989][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_2
+[2023.09.22-01.18.49:989][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:989][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_5
+[2023.09.22-01.18.49:989][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:989][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:989][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_3
+[2023.09.22-01.18.49:990][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:990][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumInequality_1
+[2023.09.22-01.18.49:990][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:990][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:990][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_1
+[2023.09.22-01.18.49:990][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:990][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumEquality_4
+[2023.09.22-01.18.49:990][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:991][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:991][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_VariableGet_0
+[2023.09.22-01.18.49:991][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.49:991][250]LoadErrors: Failed to load /Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState.E_MenuSlideState Referenced by K2Node_EnumInequality_0
+[2023.09.22-01.18.49:991][250]LogLinker: Warning: [AssetLog] C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor.uasset: Failed to load '/Game/Mods/Z_ModLoader_P/Enums/E_MenuSlideState': Can't find file.
+[2023.09.22-01.18.50:004][250]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.09.22-01.18.50:085][250]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.081 s
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: === Handled ensure: ===
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: 
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: Ensure condition failed: Lhs.CurrentNum == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 219]
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: Stack: 
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff919c5e2a9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff919b9faa6 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff919b9dd3e UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff919b0bb90 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff919ab2bc7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff90cc01f4d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff91a174fed UE4Editor-Kismet.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff91a172be3 UE4Editor-Kismet.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931cacc30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f325c1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f5691a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f310ba UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f32b1b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f58bbc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff93206cd66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f2790d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f852d2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f838c7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f8539d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f838c7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f8539d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f838c7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:085][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f836e1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f3e399 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f8026a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff931f3417e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff931dfa067 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff93206ca33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff93206bbc0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff932081e1f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff9320949f5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff932094088 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff8e7885fe1 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff8e78862f0 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff8e7872632 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff90339d63d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff90335ae40 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff9032bdd7c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff90327ad97 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff9031e8944 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff9032c8ca7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff9032bdf6b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff935e52758 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff935eccad7 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff935eb6203 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff935ea9319 UE4Editor-Slate.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff94e88bfff UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff94e8792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff94e88e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff94e874410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff989c7e858 USER32.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff989c7e299 USER32.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff94e88fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff6dc887621 UE4Editor.exe!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8a0fcc UE4Editor.exe!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8a10ba UE4Editor.exe!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8a40dd UE4Editor.exe!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8b5984 UE4Editor.exe!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff6dc8b853a UE4Editor.exe!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff989e27344 KERNEL32.DLL!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: [Callstack] 0x00007ff98bc626b1 ntdll.dll!UnknownFunction []
+[2023.09.22-01.18.50:086][250]LogOutputDevice: Error: 
