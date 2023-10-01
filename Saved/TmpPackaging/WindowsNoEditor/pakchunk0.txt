@@ -5,6 +5,7 @@ C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\Wi
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\BasicShapes\Cylinder
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\BasicShapes\Plane
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\BasicShapes\Sphere
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorBlueprintResources\StandardMacros
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorLandscapeResources\DataLayer
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorLandscapeResources\DefaultAlphaTexture
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorMaterials\Camera\CineMat
@@ -33,6 +34,8 @@ C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\Wi
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorMeshes\Camera\SM_RailRig_Mount
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorMeshes\Camera\SM_RailRig_Track
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\BSPVertex
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\EmptyActor
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\LightIcons\S_LightError
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\S_Actor
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\S_Note
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EditorResources\S_Solver
@@ -106,6 +109,15 @@ C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\Wi
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineResources\DefaultVolumeTexture2D
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineResources\GradientTexture0
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineResources\WhiteSquareTexture
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\BP_Sky_Sphere
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\C_Sky_Cloud_Color
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\C_Sky_Horizon_Color
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\C_Sky_Zenith_Color
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\M_Sky_Panning_Clouds2
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\SM_SkySphere
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\T_Sky_Blue
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\T_Sky_Clouds_M
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\T_Sky_Stars
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\VolumetricClouds\CloudGradientTexture
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\VolumetricClouds\CloudWeatherTexture
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\EngineSky\VolumetricClouds\m_SimpleVolumetricCloud
@@ -140,6 +152,7 @@ C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\Wi
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\Maps\Templates\Thumbnails\Default
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\Maps\Templates\Thumbnails\TimeOfDay
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\Maps\Templates\Thumbnails\VR-Basic
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\MapTemplates\SM_Template_Map_Floor
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\MobileResources\HUD\AnalogHat
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\MobileResources\HUD\DefaultVirtualJoysticks
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Content\MobileResources\HUD\LeftVirtualJoystickOnly
@@ -242,6 +255,7 @@ C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\Wi
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Plugins\Runtime\OpenXR\Content\Devices\ValveIndex\Right\MI_right_ValveIndex
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\Engine\Plugins\Runtime\OpenXR\Content\Devices\ValveIndex\Right\right_ValveIndexController
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_DebugLog_P\BlueprintLibraries\BFL_DebugLog
+C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_MapLoader_P\Structs\F_MapLoaderDataTable
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ModLoader_P\Blueprints\BP_M_ModActor
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ModLoader_P\Structs\F_ModLoaderInformation
 C:\Users\Mythical\Documents\GitHub\EscapeTheBackroomsModTemplate\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ModLoader_P\Structs\New\F_ModLoaderDataTable

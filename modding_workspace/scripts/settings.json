@@ -1,0 +1,70 @@
+{
+  "paths": {
+	"output_dir": "C:/Users/Mythical/Downloads/Output",
+    "fmodel_exe": "C:/Modding/Programs/fmodel/FModel.exe",
+    "ide_exe": "C:/Program Files/Notepad++/notepad++.exe",
+    "game_exe": "C:/Program Files (x86)/Steam/steamapps/common/EscapeTheBackrooms/EscapeTheBackrooms/Binaries/Win64/Backrooms-Win64-Shipping.exe",
+    "blender_exe": "C:/Program Files/Blender Foundation/Blender 3.5/blender-launcher.exe",
+    "unreal_engine_dir": "C:/unreal_engine_installs/UE_4.27",
+    "unreal_project_file": "C:/Users/Mythical/Documents/GitHub/Interpose/EscapeTheBackrooms.uproject",
+	"repak_exe": "C:/Modding/Programs/repak/repak.exe"
+  },
+  "repak_pak_ver": "V11",
+  "steam_game_app_id": "1943950",
+  "window_title": "Interpose Automation Script",
+  "process_kill_list": [
+      "Fmodel.exe",
+      "Backrooms-Win64-Shipping.exe"
+    ],
+  "launch_method": "win64_exe",
+  "mod_pak_list": [
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_ModLoader_P",
+      "pak_chunk_num": 1,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_ModButtons_P",
+      "pak_chunk_num": 2,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_DebugLog_P",
+      "pak_chunk_num": 3,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_Testing_P",
+      "pak_chunk_num": 4,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_ModListMenu_P",
+      "pak_chunk_num": 5,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_CustomConsole_P",
+      "pak_chunk_num": 6,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_MapLoader_P",
+      "pak_chunk_num": 7,
+      "status": "on"
+    },
+    {
+      "pak_type": "LogicMods",
+      "name": "Z_ExampleLevel_P",
+      "pak_chunk_num": 8,
+      "status": "on"
+    }
+  ]
+}
